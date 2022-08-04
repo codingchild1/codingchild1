@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codingchlid1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **codingchild1/codingchild1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
