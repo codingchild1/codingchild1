@@ -1,4 +1,4 @@
-<div align=center>Hi~ this is CodingCha's github ~ 👋</div>
+<h1 align=center>Hi~ this is CodingCha's github ~ 👋</h1>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
