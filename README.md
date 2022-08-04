@@ -1,4 +1,4 @@
-This is an Hi there~ 👋
+Hi~ this is CodingChild1's github ~ 👋
 =======================
 <!--
 **codingchild1/codingchild1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
