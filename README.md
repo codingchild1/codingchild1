@@ -35,7 +35,6 @@
   ![codingchild1's github stats](https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true)
   [![codingchild1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingchild1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/codingchild1)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=codingchild1)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **codingchild1/codingchild1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
