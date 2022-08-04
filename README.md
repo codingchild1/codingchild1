@@ -1,5 +1,6 @@
-<div align=center>Hi~ this is CodingCha's github ~ 👋</div>
-=======================
+<div align=center>Hi~ this is CodingCha's github ~ 👋
+=================================================
+</div>
 <br>
 
 <div align=center><h1>📚 STACKS</h1></div>
