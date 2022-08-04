@@ -1,5 +1,4 @@
 <div align=center>Hi~ this is CodingCha's github ~ 👋
-=================================================
 </div>
 <br>
 
