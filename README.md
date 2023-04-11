@@ -1,3 +1,5 @@
+<img src="/lion.png" width="100%" height="400"/>
+
 <h1 align=center>Hi~ this is CodingCha's github ~ 👋</h1><br>
 
 <div align=center>
