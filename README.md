@@ -10,8 +10,10 @@
 <a href="https://blog.naver.com/tkddnjs04230" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/ style="height: 20px; width: 60px;"></a>
 </div>
 
+<br>  
 <br>
-<div align=center>📚 Tech Stack</div><br>
+  
+<div align=center><b>📚 Tech Stack<b></div><br>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
