@@ -32,8 +32,8 @@ I wanna be a good developer.
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br><br>
 
-  <a href="https://github.com/codingchild1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Eungyeol41&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
-  ![codingchild1's github stats](https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true&theme=radical)
+  <a href="https://github.com/codingchild1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
+<!--   ![codingchild1's github stats](https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true&theme=radical) -->
   [![codingchild1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingchild1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/codingchild1)<br><br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOOHYOJEONG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/codingchild1)
