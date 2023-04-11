@@ -9,7 +9,10 @@
 <a href="https://blog.naver.com/tkddnjs04230" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/ style="height: 20px; width: 60px;"></a>
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div><br>
+<br>
+<br>
+
+<div align=center><h1>📚 Tech Stack</h1></div><br>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
