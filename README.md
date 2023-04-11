@@ -37,7 +37,7 @@ I wanna be a good developer.
   &emsp;
   <a href="https://github.com/codingchild1"><img align="center" style="height:180px display:flex;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingchild1&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOOHYOJEONG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/codingchild1)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodingchild1&count_bg=%230AC7D9&title_bg=%238365E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **codingchild1/codingchild1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
