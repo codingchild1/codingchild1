@@ -32,9 +32,10 @@ I wanna be a good developer.
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br><br>
 
-  <div style="display: flex;">
+  
   <a href="https://github.com/codingchild1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
 <!--   ![codingchild1's github stats](https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true&theme=radical) -->
+  <div style="display: flex;">
   [![codingchild1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingchild1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/codingchild1)<br><br>
   </div>
   
