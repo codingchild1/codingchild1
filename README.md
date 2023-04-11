@@ -16,8 +16,7 @@ I wanna be a good developer.
 <br>  
 <br>
   
-<div align=center><b>📚 Tech Stack<b></div><br>
-<div align=center>
+<b>📚 Tech Stack<b><br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,7 +39,6 @@ I wanna be a good developer.
   
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br><br><br><br>
-<div>
 
   ![codingchild1's github stats](https://github-readme-stats.vercel.app/api?username=codingchild1&show_icons=true&theme=radical)
   [![codingchild1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingchild1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/codingchild1)<br><br>
