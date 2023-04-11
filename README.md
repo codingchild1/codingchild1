@@ -1,7 +1,7 @@
 <h1 align=center>Hi~ this is CodingCha's github ~ 👋</h1><br>
 
 <div align=center><a href="https://www.notion.so/9f65b7c7db574db8863f4a1a59f1868b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-E43526?style=flat-square&logo=notion&logoColor=white"/ style="height: 60px; width: 80px;"></a></div>
-<div align=center><a href="https://open.kakao.com/o/szCUsIef" target="_blank"><img src="https://img.shields.io/badge/Kakao-E43526?style=flat-square&logo=kakao&logoColor=white"/ style="height: 60px; width: 80px;"></a></div>
+<div align=center><a href="https://open.kakao.com/o/szCUsIef" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakao&logoColor=white"/ style="height: 60px; width: 80px;"></a></div>
 
 <div align=center><h1>📚 STACKS</h1></div><br>
 <div align=center>
